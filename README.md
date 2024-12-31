@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming and coding
 - 🌱 I’m currently learning Python but I have finished HTML and Scratch
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me please don't reach me :)
+- 📫 How to reach me, '{[please don't reach me :)]}
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I have come 1st in one competition and 4th and 7th in multiple olympiad competitions
 
